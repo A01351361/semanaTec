@@ -15,4 +15,4 @@ git add -A
 git commit -m "mensaje descriptivo de los cambios"
 
 //Para mandar los cambios a github
-git push
+git push..
